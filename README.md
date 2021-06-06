@@ -1,6 +1,7 @@
 ### 我是陈随易 [chensuiyi.com](https://chensuiyi.com) 👋
 
-<table style="width:100% !important;">
+<table width="1000px">
+<tbody width="1000px">
 <tr>
 <td width="100%" style="width:100% !important;">
   
@@ -32,6 +33,7 @@ PHP                11 mins  ████▓░░░░░░░░░░░░�
 ```
 </td>
 </tr>
+</tbody>
 </table>
 
 
