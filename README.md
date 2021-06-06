@@ -14,14 +14,12 @@
 
 #### 🏋️‍♀️ 我的技能
   
-```text
-javascript 
-html
-css
-php
-bash
-linux
-```
+- javascript 
+- html
+- css
+- php
+- bash
+- linux
   
 
 
