@@ -1,8 +1,8 @@
 ### 我是陈随易 [chensuiyi.com](https://chensuiyi.com) 👋
 
-<table width="100%">
+<table style="width:100% !important;">
 <tr>
-<td valign="top" width="100%">
+<td width="100%" style="width:100% !important;">
   
 #### 🏋️‍♀️ <a href="##">关于我</a>
   
@@ -18,7 +18,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="100%">
+<td style="width:100% !important;">
   
 #### 🏋️‍♀️ <a href="##">我的技能</a>
 
