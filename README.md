@@ -14,12 +14,9 @@
 
 #### 🏋️‍♀️ 我的技能
   
-- javascript 
-- html
-- css
-- php
-- bash
-- linux
+- web/vue/响应式
+- 小程序/uniapp
+- 后端/php/nodejs
   
 
 
