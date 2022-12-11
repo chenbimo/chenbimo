@@ -20,6 +20,7 @@
 - 你也可以给我发送邮件 `bimostyle@qq.com`
 - 很高兴认识你
 - 我是陈随易
+- 我活跃在gitee上，https://gitee.com/chenbimo
   
 
 
