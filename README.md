@@ -21,6 +21,12 @@
 - 很高兴认识你
 - 我是陈随易
 - 我活跃在gitee上，https://gitee.com/chenbimo
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenbimo)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenbimo&border_color=2e4058)
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=chenbimo&repo=yicode&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
   
 
 
