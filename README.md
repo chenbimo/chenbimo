@@ -12,7 +12,7 @@
 - 我对react不感兴趣，因为vue生态已经能解决我99%的问题
 - 至于剩下的1%的问题，我还没遇到，或许永远不会遇到
 - 我的后端技能主要是nodejs，用nodejs写除了前端不能写的一切
-- 我2015年9月开始进入编程行业
+- 我2015年开始进入编程行业
 - 经历过实习，项目总监，前端负责人，游戏开发，前端讲师，创业，接单，到现在的自由职业
 - 有丰富的从业经验和产品经验，也乐于解答新手的编程困惑和技术问题
 - 我创建了几个微信编程技术交流群，目前大概800人左右，想进群的可以加我下方的联系方式
@@ -32,7 +32,7 @@
 - I am not interested in react, because the vue ecology can already solve 99% of my problems
 - As for the remaining 1% of problems, I haven't encountered them yet, and probably never will
 - My back-end skills are mainly nodejs, and I use nodejs to write everything except the front-end
-- I started to enter the programming industry in September 2015
+- I started to enter the programming industry in 2015
 - Experienced internship, project director, front-end person in charge, game development, front-end lecturer, starting a business, receiving orders, and now freelancing
 - Has rich experience in the industry and products, and is also willing to answer programming confusion and technical questions for novices
 - I created some WeChat programming technology exchange groups, currently about 800 people, if you want to join the group, you can add my contact information below
