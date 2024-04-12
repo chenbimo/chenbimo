@@ -1,4 +1,4 @@
-### 我是陈随易(I'm chensuiyi) [chensuiyi.com](https://chensuiyi.me) 
+### 我是陈随易(I'm chensuiyi) [chensuiyi.me](https://chensuiyi.me) 
 
 
 #### 关于我
